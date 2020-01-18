@@ -1,0 +1,15 @@
+ fieldset {
+     max-width: 500px;
+     border-color: greenyellow;
+     background-color: beige;
+ }
+
+ legend {
+     color: darkcyan;
+     margin: 0 auto;
+     padding-bottom: 10px;
+ }
+
+ input {
+     border: 1px solid lightseagreen;
+ }
